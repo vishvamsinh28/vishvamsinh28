@@ -1,4 +1,6 @@
-### Hi there 👋 I'm Vishvamsinh Vaghela <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishvamsinh28&label=Profile%20views&color=0e75b6&style=flat" alt="vishvamsinh28" /> </p>
+### Hi there 👋 I'm Vishvamsinh Vaghela 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vishvamsinh28&label=Profile%20views&color=0e75b6&style=flat" alt="vishvamsinh28" /> </p>
 
 - 🚀 I’m a **Full Stack Developer** based in **India**
 - 💻 Passionate about building scalable, user-friendly applications and **actively contributing to open source projects**
