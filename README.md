@@ -1,4 +1,5 @@
-Building things on the web  
+🧑‍💻 Building on the web  
+🔧 Opensource contributor and maintainer  
 
-Open to work  
-Email: [vaghelavishvamsinh11111@gmail.com](mailto:vaghelavishvamsinh11111@gmail.com)
+💼 Open to work  
+📧 Email: [vaghelavishvamsinh11111@gmail.com](mailto:vaghelavishvamsinh11111@gmail.com)
